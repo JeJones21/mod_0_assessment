@@ -1,4 +1,4 @@
-Developer = {
+developer = {
   "name" => "JJ",
   "hands" => "quick",
   "age" => 34,
